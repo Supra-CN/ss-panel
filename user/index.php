@@ -46,6 +46,9 @@ $unix_time = $oo->get_last_unix_time();
                         <div class="box-body">
                             <p>流量不会重置，可以通过签到获取流量。</p> 
                             <p>流量可以通过签到获取，基本每天可以用1G流量。</p> 
+                            <p>本站目前没有收费计划，仅供方便个人技术学习使用，请大家自觉遵守当地法律，禁止用于商业目的。</p> 
+                            <p>交流学习q群：485561913。</p> 
+                            <p>联系站长请在<a href="http://blog.supra.tw">Supra's Garage</a>留言，或mailto:<a href="mailto:supra.cn@gmail.com">Supra.CN@Gmail.com</a>。</p> 
                         </div><!-- /.box-body -->
                     </div><!-- /.box -->
                 </div><!-- /.col (right) -->

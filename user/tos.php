@@ -44,6 +44,15 @@ require_once '../lib/config.php';
         <h1>用户协议 Terms of Service </h1>
     </div>
     <p><?php echo $site_name;  ?>，以下简称本站。</p>
+    <p>
+        <ul>
+            <li>本站仅供方便个人技术学习免费使用</li>
+            <li>请文明上网，自觉遵守当地法律限制，禁止用于商业目的</li>
+            <li>联系站长请在<a href="http://blog.supra.tw">Supra's Garage</a>留言</li>
+            <li>或mailto:<a href="mailto:supra.cn@gmail.com">Supra.CN@Gmail.com</a></li>
+        </ul>
+    </p>
+
     <h3>隐私</h3>
     <p>
         <ul>

@@ -9,6 +9,7 @@ $c = new \Ss\User\Invite();
 
     <div class="jumbotron">
         <p class="lead"> 邀请码实时刷新</p>
+        <p>交流学习q群：485561913。</p> 
         <p>如遇到无邀请码请找已经注册的用户获取。</p>
     </div>
 
