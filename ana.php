@@ -1,3 +1,3 @@
 <div id="analytics-code" style="display:none">
-     统计代码
+<?php include_once("analyticstracking.php") ?>
 </div>
