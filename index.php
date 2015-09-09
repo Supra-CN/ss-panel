@@ -13,7 +13,8 @@ include_once 'header.php';
         <p class="lead">交流学习q群：485561913。</p>
         <p class="lead">联系站长请在<a href="http://blog.supra.tw">Supra's Garage</a>留言;</p>
         <p class="lead">或mailto:<a href="mailto:supra.cn@gmail.com">Supra.CN@Gmail.com</a>。</p>
-        <p><a class="btn btn-lg btn-success" href="user/register.php" role="button">立即注册</a></p>
+        <p><a class="btn btn-lg btn-success" href="user/register.php" role="button">立即注册</a>
+	<a class="btn btn-lg btn-success" href="http://donate.supra.tw" role="button">捐助Supra</a></p>
     </div>
 
 
