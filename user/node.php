@@ -10,7 +10,7 @@ $node = new Ss\Node\Node();
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
-                节点列表
+                站长共享的节点
                 <small>Node List</small>
             </h1>
         </section>
@@ -28,6 +28,8 @@ $node = new Ss\Node\Node();
                         <div class="box-body">
                             <div class="callout callout-warning">
                                 <h4>注意!</h4>
+                                <p>这是站长自用的线路，剩余一部分流量共享出来；</p>
+                                <p>美国sfo节点长期有效，由站长承担节点开销！</p>
                                 <p>请勿在任何地方公开节点地址！</p>
                             </div><?php
                             $node0 = $node->NodesArray(0);
@@ -67,12 +69,17 @@ $node = new Ss\Node\Node();
                     <div class="box box-solid">
                         <div class="box-header">
                             <i class="fa fa-code"></i>
-                            <h3 class="box-title">Pro节点</h3>
+                            <h3 class="box-title">大家捐助的节点</h3>
                         </div><!-- /.box-header -->
                         <div class="box-body">
                             <div class="callout callout-warning">
                                 <h4>注意!</h4>
-                                <p>....</p>
+                                <p>这是大家捐助的线路；</p>
+                                <p>每个节点每月开销成本是5美刀；</p>
+                                <p>大家每月的捐款够数就开服；</p>
+                                <p>对速度由要求的同学可以考虑使用新加坡节点；</p>
+                                <p>请勿在任何地方公开节点地址！</p>
+			        <p><a class="btn btn-lg btn-success" href="http://donate.supra.tw" role="button">捐助节点</a>贡献自己的一份力量!</p>
                             </div><?php
                             $node1 = $node->NodesArray(1);
                             foreach($node1 as $row){
