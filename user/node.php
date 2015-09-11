@@ -10,7 +10,7 @@ $node = new Ss\Node\Node();
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
-                站长共享的节点
+                节点列表
                 <small>Node List</small>
             </h1>
         </section>
@@ -23,7 +23,7 @@ $node = new Ss\Node\Node();
                     <div class="box box-solid">
                         <div class="box-header">
                             <i class="fa fa-th-list"></i>
-                            <h3 class="box-title">节点</h3>
+                            <h3 class="box-title">站长共享的节点</h3>
                         </div><!-- /.box-header -->
                         <div class="box-body">
                             <div class="callout callout-warning">
