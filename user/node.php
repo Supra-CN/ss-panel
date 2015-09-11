@@ -74,11 +74,8 @@ $node = new Ss\Node\Node();
                         <div class="box-body">
                             <div class="callout callout-warning">
                                 <h4>注意!</h4>
-                                <p>这是大家捐助的线路；</p>
-                                <p>每个节点每月开销成本是5美刀；</p>
-                                <p>大家每月的捐款够数就开服；</p>
-                                <p>对速度由要求的同学可以考虑使用新加坡节点；</p>
-                                <p>请勿在任何地方公开节点地址！</p>
+                                <p>这是大家捐助的线路，对速度由要求的同学可以考虑使用新加坡节点；</p>
+                                <p>每个节点每月开销成本是5美刀，大家每月的捐款够数就开服；</p>
 			        <p><a class="btn btn-lg btn-success" href="http://donate.supra.tw" role="button">捐助节点,贡献自己的一份力量!</a></p>
                             </div><?php
                             $node1 = $node->NodesArray(1);
